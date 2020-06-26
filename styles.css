@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: red;
+    background-color: white;
 }
 
 .navbar-collapse {
@@ -93,7 +93,7 @@ body {
     padding: 20px;
     background-color: grey;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 80px black;
 }
 
 
